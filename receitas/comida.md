@@ -1,27 +1,27 @@
-# BIFE:chestnut:
+# Comida Diversas :tomato:
 
-### Tipos
+---
 
-+++
+- Arroz com fritas
 
-- frango
+- Macarão com salsichas
 
-- boi
+- Estrogonofe
 
-- vaca
+- Feijoada
 
-- carneiro
+  
 
-  ### modo de preparo
+  ## Sobremesas
 
-  +++
+  * Gelatina
 
-  - fitar
+  * Geladinho
+
+  * Mosse de maracujá
 
     
 
-  
-
-  
+    
 
   
